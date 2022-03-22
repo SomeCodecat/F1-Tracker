@@ -1,0 +1,6 @@
+montags vorm renn-wochenende daten über Race Geben (Strecke, länge, ort, Schedule, und evtl trackmap) # mit "next" api request
+nach practise1, p2, p3 Qualifier1, Q2, Q3 und Rennn Ergebnisse und besonderheiten (z.B. Strafen und crashes) Posten
+Im rennnen Positionen live aktualisieren
+Pitstops Live anzeigen
+Strafen Live anzeigen
+Am Ende Punktestand Drivers und Constructors in form von tabelle
